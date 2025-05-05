@@ -20,5 +20,7 @@ A responsive and user-friendly weather webpage built using **HTML**, **CSS**, an
 ## 📸 Preview
 
 ![Weather Webpage Screenshot](Screenshot.png)
-## Demo 
->[Click HERE to Check Weather with city name](https://pratiksha04th.github.io/weather-page/)
+ 
+## 🌐 Live Demo
+
+🚀 [View the Live Site](https://pratiksha04th.github.io/weather-page/)
