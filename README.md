@@ -20,5 +20,7 @@ A responsive and user-friendly weather webpage built using **HTML**, **CSS**, an
 ## 📸 Preview
 
 ![Weather Webpage Screenshot](Screenshot.png)
+ 
+## 🌐 Live Demo
 
->[search city name](file:///C:/Users/prati/OneDrive/Desktop/weather-page/app.html)
+🚀 [View the Live Site](https://pratiksha04th.github.io/weather-page/)
