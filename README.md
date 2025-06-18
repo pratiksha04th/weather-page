@@ -23,4 +23,4 @@ A responsive and user-friendly weather webpage built using **HTML**, **CSS**, an
  
 ## 🌐 Live Demo
 
-🚀 [View the Live Site](https://pratiksha04th.github.io/weather-page/)
+🚀 [View the Live Site](https://weather-page-4t7njkkr8-pratiksha-thakurs-projects.vercel.app/)
